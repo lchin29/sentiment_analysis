@@ -11,3 +11,8 @@ How-Tos
 - https://github.com/saumyakb/CS4740-NLP-Sentiment-Analysis-using-HMM/blob/master/hmm_sent.py
 - https://www.kaggle.com/anantgupta374/twitter-sentiment-analysis
 
+Research
+
+- https://www.ijfis.org/journal/view.html?uid=809&&vmd=Full
+- http://www.jait.us/uploadfile/2018/0523/20180523023700926.pdf
+- https://en.wikipedia.org/wiki/Hidden_Markov_model
