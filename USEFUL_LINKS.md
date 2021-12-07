@@ -16,3 +16,4 @@ Research
 - https://www.ijfis.org/journal/view.html?uid=809&&vmd=Full
 - http://www.jait.us/uploadfile/2018/0523/20180523023700926.pdf
 - https://en.wikipedia.org/wiki/Hidden_Markov_model
+- https://web.stanford.edu/~jurafsky/slp3/A.pdf
